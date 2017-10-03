@@ -1,0 +1,9 @@
+F:\dot net\practice\mini proj\phoneDairy\phoneDairy\bin\Debug\phoneDairy.exe.config
+F:\dot net\practice\mini proj\phoneDairy\phoneDairy\bin\Debug\phoneDairy.exe
+F:\dot net\practice\mini proj\phoneDairy\phoneDairy\bin\Debug\phoneDairy.pdb
+F:\dot net\practice\mini proj\phoneDairy\phoneDairy\obj\Debug\phoneDairy.csprojResolveAssemblyReference.cache
+F:\dot net\practice\mini proj\phoneDairy\phoneDairy\obj\Debug\phoneDairy.phone.resources
+F:\dot net\practice\mini proj\phoneDairy\phoneDairy\obj\Debug\phoneDairy.Properties.Resources.resources
+F:\dot net\practice\mini proj\phoneDairy\phoneDairy\obj\Debug\phoneDairy.csproj.GenerateResource.Cache
+F:\dot net\practice\mini proj\phoneDairy\phoneDairy\obj\Debug\phoneDairy.exe
+F:\dot net\practice\mini proj\phoneDairy\phoneDairy\obj\Debug\phoneDairy.pdb

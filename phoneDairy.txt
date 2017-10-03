@@ -1,0 +1,23 @@
+phone dairy (vetrivel D)
+1) add 5 text boxes, 5 lables ->select them all and edit at once in the upper options, change font
+add a grid view, 4 buttons - new(clear),insert, del, update
+change all the names
+add a combo box and write items. -> convert into list, so that we can only select nd not add
+2)change tabindex for all, so that when we press tab, it goes in that particular direction.
+3)clear button: textBox1.Text=""; textBox1.clear(); comboBox.selectedIndex = -1; 
+to shift focus to tab1, textBox1.Focus();
+4)Data grid view: add columns and edit the sizes.
+5)server explorer ->connect DB ->create new table: phone
+to remove the blank line that is displayed -> disable add when RC data grid view.
+6)add connection. click on DB, properties ->connection string
+conn, cmd -> '"+textBox1.Text+"',
+messagebox.show("successful!!");
+now, we have to display this data in grid view. so, we put a display method
+7)Display()
+8)data grid view, we select, only 1 cell is selected.
+change this ->properties selection mode->FullRowSelect
+when we slect, the data shd be displyaed on text boxes, write code.
+properties ->events icon ->mouse click ->enter ->code
+9)del and update buttons
+10)add another functionality, search field
+drag a new tb
